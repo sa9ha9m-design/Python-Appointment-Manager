@@ -1,6 +1,6 @@
 # Python-Appointment-Manager
 
-Introduction 
+
 This project developed to apply the concepts we learned in Python programming. Implementing a simple, functional and modular Python program using variables, loops, conditions, list, string and functions.
 We selected a real –world problem managing daily appointment, busy day and many distracted, we need simple applications to help us to arrange our daily appointments.
 To store, search and editing, instead of using complex applications, Python helps us to manage these tasks.
